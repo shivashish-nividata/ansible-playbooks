@@ -1,3 +1,3 @@
-- hosts: all
-  collections:
-    - amazon.aws
+---
+collections:
+  - name: amazon.aws
